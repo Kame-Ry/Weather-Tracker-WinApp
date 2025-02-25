@@ -57,3 +57,6 @@ node-fetch       | Fetches weather data from OpenWeather API
     - Installer Built With: electron-builder
     - Portable Version: Built using electron-packager
     
+## Example Screenshot
+![Example](https://github.com/user-attachments/assets/7b5130d2-e7ba-446d-8b5f-71739a2c3399)
+    
