@@ -2,10 +2,7 @@
 
 Weather-Tracker is a lightweight desktop application that provides real-time weather updates using the OpenWeather API. The app supports current weather data, hourly forecasts, and a 5-day forecast.
 
-## Weather-Tracker
-(Optional: Add a screenshot/banner of your app.)
-
-## Installation
+![weather-app](https://github.com/user-attachments/assets/3764c02e-53c4-4abd-b359-36a7022c8b8c)
 
 ### Windows Installer
 
@@ -59,3 +56,4 @@ node-fetch       | Fetches weather data from OpenWeather API
 
     - Installer Built With: electron-builder
     - Portable Version: Built using electron-packager
+    
